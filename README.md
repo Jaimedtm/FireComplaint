@@ -12,3 +12,9 @@ Se deben agregar las credenciales de firebase al archivo **web/index.html**.
 
 # Capturas de pantalla 📷
 
+![SS_0](https://github.com/Jaimedtm/FireComplaint/blob/main/screenshots/ss_0.png)
+![SS_0](https://github.com/Jaimedtm/FireComplaint/blob/main/screenshots/ss_0.png)
+![SS_1](https://github.com/Jaimedtm/FireComplaint/blob/main/screenshots/ss_1.png)
+![SS_2](https://github.com/Jaimedtm/FireComplaint/blob/main/screenshots/ss_2.png)
+![SS_3](https://github.com/Jaimedtm/FireComplaint/blob/main/screenshots/ss_3.png)
+![SS_4](https://github.com/Jaimedtm/FireComplaint/blob/main/screenshots/ss_4.png)
